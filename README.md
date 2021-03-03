@@ -23,3 +23,10 @@ php artisan monitor:create https://aloalerjhom.alerj.rj.gov.br
 php artisan monitor:create https://parlamentojuvenilhom.alerj.rj.gov.br
 php artisan monitor:create https://querodiscutiromeuestadohom.alerj.rj.gov.br
 ```
+
+Executar o monitoramento
+```
+php artisan monitor:check-uptime
+php artisan monitor:check-certificate
+php artisan monitor:list
+```
