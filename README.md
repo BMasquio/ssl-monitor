@@ -22,6 +22,8 @@ php artisan monitor:create https://eventoshom.alerj.rj.gov.br
 php artisan monitor:create https://aloalerjhom.alerj.rj.gov.br
 php artisan monitor:create https://parlamentojuvenilhom.alerj.rj.gov.br
 php artisan monitor:create https://querodiscutiromeuestadohom.alerj.rj.gov.br
+php artisan monitor:create https://transparenciahom.alerj.rj.gov.br
+php artisan monitor:create https://transparencia.alerj.rj.gov.br
 ```
 
 Executar o monitoramento
